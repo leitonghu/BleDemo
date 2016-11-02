@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scan_time_out">蓝牙连接超时</string>
+</resources>
